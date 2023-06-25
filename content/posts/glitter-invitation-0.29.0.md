@@ -18,6 +18,10 @@ tags = ["Translate","GlitterInvitation"]
 
 GlitterInvitation([Fantia](https://fantia.jp/fanclubs/208640), [patreon](https://www.patreon.com/giantess_snowdrop)) 0.29 버전에 대응하는 한국어 번역 파일을 배포합니다.
 
+## Disclaimer(면책조항)
+
+본 사이트는 GlitterInvitation 공식과 연관 없는 사이트입니다. 또한 번역 파일 사용시 발생할 수 있는 문제에 대한 책임은 이용자 본인이 부담합니다.
+
 ## 배포 링크
 
 {{ download_link(file="download/OverrideScenarioText_ko_0.29.0.tsv", label="Glitter Invitation 한글 번역 0.29.0") }}
