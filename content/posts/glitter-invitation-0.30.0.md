@@ -1,5 +1,5 @@
 +++
-title = "Glitter Invitation 한글 번역 0.29.0"
+title = "Glitter Invitation 한글 번역 0.30.0"
 description = "번역"
 date = 2023-07-04
 # updated = 2023-07-04
