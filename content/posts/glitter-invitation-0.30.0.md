@@ -2,7 +2,7 @@
 title = "Glitter Invitation 한글 번역 0.30.0"
 description = "번역"
 date = 2023-07-04
-# updated = 2023-07-04
+updated = 2023-09-04
 weight = 0
 draft = false
 aliases = []
@@ -30,4 +30,4 @@ GlitterInvitation([Fantia](https://fantia.jp/fanclubs/208640), [patreon](https:/
 
 {{ resize_image(path="image/GlitterInvitation_translation_apply.png", width=800, alt="GlitterInvitation 번역 파일 적용법") }}
 
-배포되는 `OverrideScenarioText_ko_0.29.0.tsv` 파일을 다운로드 받아 **이름을 `OverrideScenarioText.tsv`으로 변경한 후**, 게임 폴더 내부의 `Game/Addition` 폴더로 옮기고 인게임 언어를 **영어**로 설정하면 번역된 대사가 나오게 됩니다.
+배포되는 `OverrideScenarioText_ko_0.30.0.tsv` 파일을 다운로드 받아 **이름을 `OverrideScenarioText.tsv`으로 변경한 후**, 게임 폴더 내부의 `Game/Addition` 폴더로 옮기고 인게임 언어를 **영어**로 설정하면 번역된 대사가 나오게 됩니다.
