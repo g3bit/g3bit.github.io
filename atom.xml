@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>G3Bit&#x27;s blog</title>
+    <link href="https://g3bit.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://g3bit.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-07-01T00:00:00+00:00</updated>
+    <id>https://g3bit.github.io/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Glitter Invitation 한글 번역 0.36.0</title>
+        <published>2024-07-01T00:00:00+00:00</published>
+        <updated>2024-07-01T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://g3bit.github.io/posts/glitter-invitation-0-36-0/" type="text/html"/>
+        <id>https://g3bit.github.io/posts/glitter-invitation-0-36-0/</id>
+        
+        <content type="html">&lt;p&gt;GlitterInvitation(&lt;a href=&quot;https:&#x2F;&#x2F;fantia.jp&#x2F;fanclubs&#x2F;208640&quot;&gt;Fantia&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;www.patreon.com&#x2F;giantess_snowdrop&quot;&gt;patreon&lt;&#x2F;a&gt;) 0.36 버전에 대응하는 한국어 번역 파일을 배포합니다.&lt;&#x2F;p&gt;
+&lt;p&gt;0.38 버전에 추가된 부분은 기존 기계번역을 사용하였으며, 0.40 버전에 추가된 부분은 아직 번역 선처리가 진행되지 않아 번역 파일이 없습니다.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;disclaimer-myeoncaegjothan&quot;&gt;Disclaimer(면책조항)&lt;&#x2F;h2&gt;
+&lt;p&gt;본 사이트는 GlitterInvitation 공식과 연관 없는 사이트입니다. 또한 번역 파일 사용시 발생할 수 있는 문제에 대한 책임은 이용자 본인이 부담합니다.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;bbapo-ringkeu&quot;&gt;배포 링크&lt;&#x2F;h2&gt;
+&lt;a href=https:&#x2F;&#x2F;g3bit.github.io&#x2F;download&#x2F;OverrideScenarioText_ko_0.36.0.tsv download&gt; Glitter Invitation 한글 번역 0.36.0 &lt;&#x2F;a&gt;&lt;h2 id=&quot;sahyon-bbanbbeo&quot;&gt;사용 방법&lt;&#x2F;h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;g3bit.github.io&amp;#x2F;processed_images&amp;#x2F;GlitterInvitation_translation_apply.b11b0a2ebceeb6b5.jpg&quot; alt=&quot;GlitterInvitation 번역 파일 적용법&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;배포되는 &lt;code&gt;OverrideScenarioText_ko_0.36.0.tsv&lt;&#x2F;code&gt; 파일을 다운로드 받아 &lt;strong&gt;이름을 &lt;code&gt;OverrideScenarioText.tsv&lt;&#x2F;code&gt;으로 변경한 후&lt;&#x2F;strong&gt;, 게임 폴더 내부의 &lt;code&gt;Game&#x2F;Addition&lt;&#x2F;code&gt; 폴더로 옮기고 인게임 언어를 &lt;strong&gt;영어&lt;&#x2F;strong&gt;로 설정하면 번역된 대사가 나오게 됩니다.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;pail-jjeohyoni-anddoe-ddae&quot;&gt;파일 적용이 안될 때&lt;&#x2F;h3&gt;
+&lt;p&gt;아래 사항을 체크해보시길 바랍니다.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;위 사이트에서 정식으로 배포되는 &lt;strong&gt;0.29 이상의 데모버전이 아닌 정식 버전&lt;&#x2F;strong&gt; 게임 파일을 사용중인지&lt;&#x2F;li&gt;
+&lt;li&gt;파일 위치 및 파일 이름 수정을 제대로 했는지&lt;&#x2F;li&gt;
+&lt;li&gt;인게임 언어를 영어로 설정했는지&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Glitter Invitation 한글 번역 0.38.0a</title>
+        <published>2024-03-09T00:00:00+00:00</published>
+        <updated>2024-03-09T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://g3bit.github.io/posts/glitter-invitation-0-38-0a/" type="text/html"/>
+        <id>https://g3bit.github.io/posts/glitter-invitation-0-38-0a/</id>
+        
+        <content type="html">&lt;p&gt;GlitterInvitation(&lt;a href=&quot;https:&#x2F;&#x2F;fantia.jp&#x2F;fanclubs&#x2F;208640&quot;&gt;Fantia&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;www.patreon.com&#x2F;giantess_snowdrop&quot;&gt;patreon&lt;&#x2F;a&gt;) 0.38 버전에 대응하는 한국어 번역 파일을 배포합니다.&lt;&#x2F;p&gt;
+&lt;p&gt;이전 번역된 부분(0.34 버전 기준)까지는 기존 번역을, 이후 추가된 부분(0.36, 0.38 버전)은 DeepL 기계번역으로 구성된 알파버전입니다.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;disclaimer-myeoncaegjothan&quot;&gt;Disclaimer(면책조항)&lt;&#x2F;h2&gt;
+&lt;p&gt;본 사이트는 GlitterInvitation 공식과 연관 없는 사이트입니다. 또한 번역 파일 사용시 발생할 수 있는 문제에 대한 책임은 이용자 본인이 부담합니다.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;bbapo-ringkeu&quot;&gt;배포 링크&lt;&#x2F;h2&gt;
+&lt;a href=https:&#x2F;&#x2F;g3bit.github.io&#x2F;download&#x2F;OverrideScenarioText_ko_0.38.0a.tsv download&gt; Glitter Invitation 한글 번역 0.38.0a &lt;&#x2F;a&gt;&lt;h2 id=&quot;sahyon-bbanbbeo&quot;&gt;사용 방법&lt;&#x2F;h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;g3bit.github.io&amp;#x2F;processed_images&amp;#x2F;GlitterInvitation_translation_apply.b11b0a2ebceeb6b5.jpg&quot; alt=&quot;GlitterInvitation 번역 파일 적용법&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;배포되는 &lt;code&gt;OverrideScenarioText_ko_0.38.0a.tsv&lt;&#x2F;code&gt; 파일을 다운로드 받아 &lt;strong&gt;이름을 &lt;code&gt;OverrideScenarioText.tsv&lt;&#x2F;code&gt;으로 변경한 후&lt;&#x2F;strong&gt;, 게임 폴더 내부의 &lt;code&gt;Game&#x2F;Addition&lt;&#x2F;code&gt; 폴더로 옮기고 인게임 언어를 &lt;strong&gt;영어&lt;&#x2F;strong&gt;로 설정하면 번역된 대사가 나오게 됩니다.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;pail-jjeohyoni-anddoe-ddae&quot;&gt;파일 적용이 안될 때&lt;&#x2F;h3&gt;
+&lt;p&gt;아래 사항을 체크해보시길 바랍니다.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;위 사이트에서 정식으로 배포되는 &lt;strong&gt;0.29 이상의 데모버전이 아닌 정식 버전&lt;&#x2F;strong&gt; 게임 파일을 사용중인지&lt;&#x2F;li&gt;
+&lt;li&gt;파일 위치 및 파일 이름 수정을 제대로 했는지&lt;&#x2F;li&gt;
+&lt;li&gt;인게임 언어를 영어로 설정했는지&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Glitter Invitation 한글 번역 0.34.0</title>
+        <published>2023-11-20T00:00:00+00:00</published>
+        <updated>2023-11-20T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://g3bit.github.io/posts/glitter-invitation-0-34-0/" type="text/html"/>
+        <id>https://g3bit.github.io/posts/glitter-invitation-0-34-0/</id>
+        
+        <content type="html">&lt;p&gt;GlitterInvitation(&lt;a href=&quot;https:&#x2F;&#x2F;fantia.jp&#x2F;fanclubs&#x2F;208640&quot;&gt;Fantia&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;www.patreon.com&#x2F;giantess_snowdrop&quot;&gt;patreon&lt;&#x2F;a&gt;) 0.34 버전에 대응하는 한국어 번역 파일을 배포합니다.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;disclaimer-myeoncaegjothan&quot;&gt;Disclaimer(면책조항)&lt;&#x2F;h2&gt;
+&lt;p&gt;본 사이트는 GlitterInvitation 공식과 연관 없는 사이트입니다. 또한 번역 파일 사용시 발생할 수 있는 문제에 대한 책임은 이용자 본인이 부담합니다.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;bbapo-ringkeu&quot;&gt;배포 링크&lt;&#x2F;h2&gt;
+&lt;a href=https:&#x2F;&#x2F;g3bit.github.io&#x2F;download&#x2F;OverrideScenarioText_ko_0.34.0.tsv download&gt; Glitter Invitation 한글 번역 0.34.0 &lt;&#x2F;a&gt;&lt;h2 id=&quot;sahyon-bbanbbeo&quot;&gt;사용 방법&lt;&#x2F;h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;g3bit.github.io&amp;#x2F;processed_images&amp;#x2F;GlitterInvitation_translation_apply.b11b0a2ebceeb6b5.jpg&quot; alt=&quot;GlitterInvitation 번역 파일 적용법&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;배포되는 &lt;code&gt;OverrideScenarioText_ko_0.34.0.tsv&lt;&#x2F;code&gt; 파일을 다운로드 받아 &lt;strong&gt;이름을 &lt;code&gt;OverrideScenarioText.tsv&lt;&#x2F;code&gt;으로 변경한 후&lt;&#x2F;strong&gt;, 게임 폴더 내부의 &lt;code&gt;Game&#x2F;Addition&lt;&#x2F;code&gt; 폴더로 옮기고 인게임 언어를 &lt;strong&gt;영어&lt;&#x2F;strong&gt;로 설정하면 번역된 대사가 나오게 됩니다.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;pail-jjeohyoni-anddoe-ddae&quot;&gt;파일 적용이 안될 때&lt;&#x2F;h3&gt;
+&lt;p&gt;아래 사항을 체크해보시길 바랍니다.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;위 사이트에서 정식으로 배포되는 &lt;strong&gt;0.29 이상의 데모버전이 아닌 정식 버전&lt;&#x2F;strong&gt; 게임 파일을 사용중인지&lt;&#x2F;li&gt;
+&lt;li&gt;파일 위치 및 파일 이름 수정을 제대로 했는지&lt;&#x2F;li&gt;
+&lt;li&gt;인게임 언어를 영어로 설정했는지&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Glitter Invitation 한글 번역 0.32.0</title>
+        <published>2023-09-04T00:00:00+00:00</published>
+        <updated>2023-09-04T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://g3bit.github.io/posts/glitter-invitation-0-32-0/" type="text/html"/>
+        <id>https://g3bit.github.io/posts/glitter-invitation-0-32-0/</id>
+        
+        <content type="html">&lt;p&gt;GlitterInvitation(&lt;a href=&quot;https:&#x2F;&#x2F;fantia.jp&#x2F;fanclubs&#x2F;208640&quot;&gt;Fantia&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;www.patreon.com&#x2F;giantess_snowdrop&quot;&gt;patreon&lt;&#x2F;a&gt;) 0.32 버전에 대응하는 한국어 번역 파일을 배포합니다.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;disclaimer-myeoncaegjothan&quot;&gt;Disclaimer(면책조항)&lt;&#x2F;h2&gt;
+&lt;p&gt;본 사이트는 GlitterInvitation 공식과 연관 없는 사이트입니다. 또한 번역 파일 사용시 발생할 수 있는 문제에 대한 책임은 이용자 본인이 부담합니다.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;bbapo-ringkeu&quot;&gt;배포 링크&lt;&#x2F;h2&gt;
+&lt;a href=https:&#x2F;&#x2F;g3bit.github.io&#x2F;download&#x2F;OverrideScenarioText_ko_0.32.0.tsv download&gt; Glitter Invitation 한글 번역 0.32.0 &lt;&#x2F;a&gt;&lt;h2 id=&quot;sahyon-bbanbbeo&quot;&gt;사용 방법&lt;&#x2F;h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;g3bit.github.io&amp;#x2F;processed_images&amp;#x2F;GlitterInvitation_translation_apply.b11b0a2ebceeb6b5.jpg&quot; alt=&quot;GlitterInvitation 번역 파일 적용법&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;배포되는 &lt;code&gt;OverrideScenarioText_ko_0.32.0.tsv&lt;&#x2F;code&gt; 파일을 다운로드 받아 &lt;strong&gt;이름을 &lt;code&gt;OverrideScenarioText.tsv&lt;&#x2F;code&gt;으로 변경한 후&lt;&#x2F;strong&gt;, 게임 폴더 내부의 &lt;code&gt;Game&#x2F;Addition&lt;&#x2F;code&gt; 폴더로 옮기고 인게임 언어를 &lt;strong&gt;영어&lt;&#x2F;strong&gt;로 설정하면 번역된 대사가 나오게 됩니다.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Glitter Invitation 한글 번역 0.30.0</title>
+        <published>2023-07-04T00:00:00+00:00</published>
+        <updated>2023-09-04T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://g3bit.github.io/posts/glitter-invitation-0-30-0/" type="text/html"/>
+        <id>https://g3bit.github.io/posts/glitter-invitation-0-30-0/</id>
+        
+        <content type="html">&lt;p&gt;GlitterInvitation(&lt;a href=&quot;https:&#x2F;&#x2F;fantia.jp&#x2F;fanclubs&#x2F;208640&quot;&gt;Fantia&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;www.patreon.com&#x2F;giantess_snowdrop&quot;&gt;patreon&lt;&#x2F;a&gt;) 0.30 버전에 대응하는 한국어 번역 파일을 배포합니다.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;disclaimer-myeoncaegjothan&quot;&gt;Disclaimer(면책조항)&lt;&#x2F;h2&gt;
+&lt;p&gt;본 사이트는 GlitterInvitation 공식과 연관 없는 사이트입니다. 또한 번역 파일 사용시 발생할 수 있는 문제에 대한 책임은 이용자 본인이 부담합니다.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;bbapo-ringkeu&quot;&gt;배포 링크&lt;&#x2F;h2&gt;
+&lt;a href=https:&#x2F;&#x2F;g3bit.github.io&#x2F;download&#x2F;OverrideScenarioText_ko_0.30.0.tsv download&gt; Glitter Invitation 한글 번역 0.30.0 &lt;&#x2F;a&gt;&lt;h2 id=&quot;sahyon-bbanbbeo&quot;&gt;사용 방법&lt;&#x2F;h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;g3bit.github.io&amp;#x2F;processed_images&amp;#x2F;GlitterInvitation_translation_apply.b11b0a2ebceeb6b5.jpg&quot; alt=&quot;GlitterInvitation 번역 파일 적용법&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;배포되는 &lt;code&gt;OverrideScenarioText_ko_0.30.0.tsv&lt;&#x2F;code&gt; 파일을 다운로드 받아 &lt;strong&gt;이름을 &lt;code&gt;OverrideScenarioText.tsv&lt;&#x2F;code&gt;으로 변경한 후&lt;&#x2F;strong&gt;, 게임 폴더 내부의 &lt;code&gt;Game&#x2F;Addition&lt;&#x2F;code&gt; 폴더로 옮기고 인게임 언어를 &lt;strong&gt;영어&lt;&#x2F;strong&gt;로 설정하면 번역된 대사가 나오게 됩니다.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Glitter Invitation 한글 번역 0.29.0</title>
+        <published>2023-06-25T00:00:00+00:00</published>
+        <updated>2023-06-25T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://g3bit.github.io/posts/glitter-invitation-0-29-0/" type="text/html"/>
+        <id>https://g3bit.github.io/posts/glitter-invitation-0-29-0/</id>
+        
+        <content type="html">&lt;p&gt;GlitterInvitation(&lt;a href=&quot;https:&#x2F;&#x2F;fantia.jp&#x2F;fanclubs&#x2F;208640&quot;&gt;Fantia&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;www.patreon.com&#x2F;giantess_snowdrop&quot;&gt;patreon&lt;&#x2F;a&gt;) 0.29 버전에 대응하는 한국어 번역 파일을 배포합니다.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;disclaimer-myeoncaegjothan&quot;&gt;Disclaimer(면책조항)&lt;&#x2F;h2&gt;
+&lt;p&gt;본 사이트는 GlitterInvitation 공식과 연관 없는 사이트입니다. 또한 번역 파일 사용시 발생할 수 있는 문제에 대한 책임은 이용자 본인이 부담합니다.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;bbapo-ringkeu&quot;&gt;배포 링크&lt;&#x2F;h2&gt;
+&lt;a href=https:&#x2F;&#x2F;g3bit.github.io&#x2F;download&#x2F;OverrideScenarioText_ko_0.29.0.tsv download&gt; Glitter Invitation 한글 번역 0.29.0 &lt;&#x2F;a&gt;&lt;h2 id=&quot;sahyon-bbanbbeo&quot;&gt;사용 방법&lt;&#x2F;h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;g3bit.github.io&amp;#x2F;processed_images&amp;#x2F;GlitterInvitation_translation_apply.b11b0a2ebceeb6b5.jpg&quot; alt=&quot;GlitterInvitation 번역 파일 적용법&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;배포되는 &lt;code&gt;OverrideScenarioText_ko_0.29.0.tsv&lt;&#x2F;code&gt; 파일을 다운로드 받아 &lt;strong&gt;이름을 &lt;code&gt;OverrideScenarioText.tsv&lt;&#x2F;code&gt;으로 변경한 후&lt;&#x2F;strong&gt;, 게임 폴더 내부의 &lt;code&gt;Game&#x2F;Addition&lt;&#x2F;code&gt; 폴더로 옮기고 인게임 언어를 &lt;strong&gt;영어&lt;&#x2F;strong&gt;로 설정하면 번역된 대사가 나오게 됩니다.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
